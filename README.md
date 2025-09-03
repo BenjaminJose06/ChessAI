@@ -1,6 +1,6 @@
 # ChessAI 
 
-A chess game built with **Python** and **Pygame**.  
+A chess game built with Python and **Pygame.  
 Play against a friend, against the AI, or watch two AIs battle it out.
 
 ---
